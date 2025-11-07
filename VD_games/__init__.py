@@ -1,4 +1,4 @@
-from VD_games.scripts.VD_games import greet
-from VD_games.cli import welcome_user
+from VD_games.utils.greet import greet_user
+from VD_games.games import brain_calc, even, gcd
 
-__all__ = ["greet", "welcome_user"]
+__all__ = ["greet_user", "brain_calc", "even", "gcd"]
