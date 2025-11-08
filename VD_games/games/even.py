@@ -1,5 +1,6 @@
 import random
 
+NAME = "VD-even"
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 def generate_round():

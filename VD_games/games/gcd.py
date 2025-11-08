@@ -1,6 +1,7 @@
 import random
 import math
 
+NAME = "VD-gcd"
 DESCRIPTION = "Find the greatest common divisor of given numbers."
 
 def generate_round():

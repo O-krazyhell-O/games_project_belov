@@ -1,5 +1,6 @@
 import random
 
+NAME = "VD-calc"
 DESCRIPTION = "What is the result of the expression?"
 
 def generate_round():

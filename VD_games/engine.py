@@ -4,6 +4,7 @@ import prompt
 MAX_ROUNDS = 3
 
 def run_game(game):
+	print(game.NAME)
 	name = greet_user()
 	print(game.DESCRIPTION)
 	for _ in range(MAX_ROUNDS):
